@@ -1,0 +1,54 @@
+.Page {
+  margin: 0px;
+  padding: 0px;
+  background-color: #bbd0ff;
+  width: 100vw;
+  height: 100vh;
+}
+
+.Nav {
+  color: white;
+  background-color: #343a40;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 100px;
+  height: 30px;
+}
+
+.Location {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Main {
+  display: flex;
+  flex-wrap: wrap;
+}
+.Date {
+  padding: 2px 30px;
+  width: 100px;
+  margin: 5px 15px;
+  box-shadow: 1px 2px 3px gray;
+  background-color: #2b2d42;
+  color: white;
+  border-radius: 10px;
+}
+.Date1 {
+  margin-top: 23px;
+  padding: 0px;
+}
+.Icon {
+  position: absolute;
+  left: 1150px;
+  top: 88px;
+}
+
+.Screen {
+  margin: 2px 100px;
+}
+.Date2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
